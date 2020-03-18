@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_aw_module">
+    <sys_aw_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content display_value="Home Module Content">c4d3a407db2300103d5ee4da4b9619de</content>
+        <content_attrs/>
+        <content_component display_value="now-uxf-viewport">3f75ec64a40f9432c9168bbda7b997de</content_component>
+        <content_tag/>
+        <detail/>
+        <detail_attrs/>
+        <detail_component/>
+        <detail_tag/>
+        <hide_until_ready>false</hide_until_ready>
+        <icon>home-outline</icon>
+        <id>home</id>
+        <label>Home</label>
+        <order>0</order>
+        <roles/>
+        <sys_class_name>sys_aw_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 20:56:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ffc3a407db2300103d5ee4da4b9619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>home</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="First App" source="x_461500_first_app">2f71a483db2300103d5ee4da4b9619d3</sys_package>
+        <sys_policy/>
+        <sys_props/>
+        <sys_scope display_value="First App">2f71a483db2300103d5ee4da4b9619d3</sys_scope>
+        <sys_update_name>sys_aw_module_ffc3a407db2300103d5ee4da4b9619d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 20:56:27</sys_updated_on>
+        <toolbar_button display_value="Home Button">7bc3a407db2300103d5ee4da4b9619d1</toolbar_button>
+        <type>full</type>
+        <workspace_config display_value="First App">63c36083db2300103d5ee4da4b961952</workspace_config>
+    </sys_aw_module>
+    <sys_variable_value action="delete_multiple" query="document_key=ffc3a407db2300103d5ee4da4b9619d0"/>
+</record_update>

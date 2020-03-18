@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>63c36083db2300103d5ee4da4b961952</admin_panel>
+        <admin_panel_table>sys_aw_master_config</admin_panel_table>
+        <page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</page>
+        <path>workspace/first_app</path>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 20:56:25</sys_created_on>
+        <sys_id>6bc36083db2300103d5ee4da4b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First App</sys_name>
+        <sys_package display_value="First App" source="x_461500_first_app">2f71a483db2300103d5ee4da4b9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First App">2f71a483db2300103d5ee4da4b9619d3</sys_scope>
+        <sys_update_name>sys_ux_page_registry_6bc36083db2300103d5ee4da4b961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 20:56:25</sys_updated_on>
+        <title>First App</title>
+    </sys_ux_page_registry>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_aw_master_config">
+    <sys_aw_master_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <brand_color/>
+        <compiled_page display_value="Workspace Core">b70867ad0f603300bb57f4a1ff767e15</compiled_page>
+        <compiled_page_registry display_value="First App">6bc36083db2300103d5ee4da4b961952</compiled_page_registry>
+        <description>My first app</description>
+        <global_search display_value="Default search settings">97a574ea53c0130084acddeeff7b12a6</global_search>
+        <global_search_data display_value="First App Search Context Config">e3c36083db2300103d5ee4da4b961950</global_search_data>
+        <name>First App</name>
+        <navigation_type>tab</navigation_type>
+        <notifications_enabled>true</notifications_enabled>
+        <primary_color/>
+        <search_enabled>true</search_enabled>
+        <sys_class_name>sys_aw_master_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-18 20:56:25</sys_created_on>
+        <sys_id>63c36083db2300103d5ee4da4b961952</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First App</sys_name>
+        <sys_package display_value="First App" source="x_461500_first_app">2f71a483db2300103d5ee4da4b9619d3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="First App">2f71a483db2300103d5ee4da4b9619d3</sys_scope>
+        <sys_update_name>sys_aw_master_config_63c36083db2300103d5ee4da4b961952</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-18 20:56:25</sys_updated_on>
+        <user_preference_controls_enabled>true</user_preference_controls_enabled>
+        <workspace_logo/>
+        <workspace_url>first_app</workspace_url>
+    </sys_aw_master_config>
+</record_update>
